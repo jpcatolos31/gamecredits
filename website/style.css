@@ -1,0 +1,38 @@
+body {
+    background-color: pink;
+}
+
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: gray;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: center;
+
+}
+
+header {
+
+    text-align: center;
+
+}
+
+p {
+    font-size: 25px;
+    font-family: ;
+    text-align: center;
+
+}
+
+h3 {
+
+    font-size: 30px;
+    text-align: center;
+    background-color: gray;
+}
